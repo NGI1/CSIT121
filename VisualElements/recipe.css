@@ -1,0 +1,31 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: brown;
+  font-family: courier;
+  text-transform: capitalize;
+}
+h2 {
+  color: orange;
+  font-family: verdana;
+  text-transform: lowercase;
+  font-size: 16px;
+}
+ul
+li {
+  color: brown;
+  margin: 40px;
+}
+ol
+li {
+  color: brown;
+}
+
+p {
+  color: orange;
+  font-family: verdana;
+  text-transform: uppercase;
+  
+}
+
