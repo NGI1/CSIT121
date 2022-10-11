@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  
+}
+#wrapper { margin-left: auto;
+           margin-right: auto;
+           width: 80%; }
+
+
+h1 {
+  color: powderblue;
+  font-family: ariel;
+  text-transform: capitalize;
+  margin: 0;
+padding: 0px; 
+}
+h2 {
+  color: blue;
+  font-family: ariel;
+  text-transform: capitalize;
+  font-size: 16px
+  margin: 0;
+  padding: 0px;
+}
+
+
+p {
+  color: powderblue;
+  font-family: verdana;
+  padding: 100px
+  
+}
+
+
